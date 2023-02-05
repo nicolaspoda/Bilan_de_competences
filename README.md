@@ -63,6 +63,9 @@ Voici le lien vers le TP 3 : https://github.com/nicolaspoda/Bilan_de_competences
 Cette compétence à été développée dans le projet d'exploitation d'une base de données. Nous devions améliorer une base de données existante en y ajoutant des tables, en y supprimant des attributs. Nous devions concevoir une nouvelle base de données "meilleure" à partir des défauts relevés dans la base de données initiale.
   
 Voici une capture d'écran de la conception de la nouvelle base de données : 
+
+<img src="https://github.com/nicolaspoda/Bilan_de_competences/blob/main/explBD%20diag%20nvl%20bd.png"
+     style="float: left; margin-right: 10px;" />
   
     
 <a name="comp5">
