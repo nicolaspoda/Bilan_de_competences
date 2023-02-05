@@ -54,7 +54,7 @@ Un github a été créé pour ce projet : https://github.com/IUT-Blagnac/sae2-02
     
 Pour développer cette compétence, j'ai effectué des travaux pratiques dans lesquels j'ai dû configurer des serveurs au sein d'un réseau. 
     
-Voici le lien vers TP : 
+Voici le lien vers le TP 3 : https://github.com/nicolaspoda/Bilan_de_competences/blob/main/TP3%20Nicolas%20Poda.pdf
 
 <a name="comp4">
  
